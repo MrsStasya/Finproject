@@ -1,0 +1,246 @@
+{
+  "search": {
+    "from": {
+      "type": "settlement",
+      "title": "Казань",
+      "short_title": "Казань",
+      "popular_title": "Казань",
+      "code": "c43"
+    },
+    "to": {
+      "type": "settlement",
+      "title": "Челябинск",
+      "short_title": "Челябинск",
+      "popular_title": "Челябинск",
+      "code": "c56"
+    },
+    "date": "2025-10-19"
+  },
+  "segments": [
+    {
+      "thread": {
+        "number": "RT 581",
+        "title": "Казань — Челябинск",
+        "short_title": "Казань — Челябинск",
+        "carrier": {
+          "code": 56935,
+          "title": "ЮВТ Аэро",
+          "codes": {
+            "sirena": "ЮВ",
+            "iata": "RT",
+            "icao": null
+          },
+          "address": null,
+          "url": "https://uvtaero.ru/",
+          "email": null,
+          "contacts": "",
+          "phone": "",
+          "logo": "https://yastat.net/s3/rasp/media/data/company/logo/logo_S3XyDtf.png",
+          "logo_svg": "https://yastat.net/s3/rasp/media/data/company/svg/uvt-aero.svg"
+        },
+        "vehicle": "Bombardier CRJ200",
+        "express_type": null,
+        "transport_type": "plane",
+        "transport_subtype": {
+          "title": null,
+          "code": null,
+          "color": null
+        },
+        "uid": "RT-581_251019_c56935_12",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-10-19&uid=RT-581_251019_c56935_12"
+      },
+      "from": {
+        "type": "station",
+        "title": "Казань",
+        "short_title": null,
+        "popular_title": null,
+        "code": "s9600379",
+        "station_type": "airport",
+        "station_type_name": "аэропорт",
+        "transport_type": "plane"
+      },
+      "to": {
+        "type": "station",
+        "title": "Баландино",
+        "short_title": null,
+        "popular_title": null,
+        "code": "s9623444",
+        "station_type": "airport",
+        "station_type_name": "аэропорт",
+        "transport_type": "plane"
+      },
+      "departure_platform": "",
+      "arrival_platform": "",
+      "departure_terminal": "1",
+      "arrival_terminal": "",
+      "stops": "",
+      "duration": 13800.0,
+      "start_date": "2025-10-19",
+      "departure": "2025-10-19T07:10:00+03:00",
+      "arrival": "2025-10-19T13:00:00+05:00",
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": []
+      }
+    },
+    {
+      "thread": {
+        "number": "",
+        "title": "Казань — Челябинск",
+        "short_title": "Казань — Челябинск",
+        "express_type": null,
+        "transport_type": "bus",
+        "carrier": {
+          "code": 64968,
+          "title": "ООО \"Автовокзал Восточный\"",
+          "codes": {
+            "sirena": null,
+            "iata": null,
+            "icao": null
+          },
+          "address": "",
+          "url": "",
+          "email": "",
+          "contacts": "",
+          "phone": "",
+          "logo": null,
+          "logo_svg": null
+        },
+        "uid": "empty_0_f9850085t9851724_168",
+        "vehicle": "HIGER(55)  (55), в536те716",
+        "transport_subtype": {
+          "title": null,
+          "code": null,
+          "color": null
+        },
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-10-19&uid=empty_0_f9850085t9851724_168"
+      },
+      "stops": "",
+      "from": {
+        "type": "station",
+        "title": "Казань, Восточный автовокзал",
+        "short_title": "",
+        "popular_title": "Восточный автовокзал",
+        "code": "s9850085",
+        "station_type": "bus_station",
+        "station_type_name": "автовокзал",
+        "transport_type": "bus"
+      },
+      "to": {
+        "type": "station",
+        "title": "Челябинск, Центральный автовокзал / Синегорье",
+        "short_title": null,
+        "popular_title": null,
+        "code": "s9851724",
+        "station_type": "bus_station",
+        "station_type_name": "автовокзал",
+        "transport_type": "bus"
+      },
+      "departure_platform": "",
+      "arrival_platform": "",
+      "departure_terminal": null,
+      "arrival_terminal": null,
+      "duration": 60000.0,
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "name": null,
+            "price": {
+              "whole": 3850,
+              "cents": 0
+            },
+            "currency": "RUB"
+          }
+        ]
+      },
+      "departure": "2025-10-19T15:40:00+03:00",
+      "arrival": "2025-10-20T10:20:00+05:00",
+      "start_date": "2025-10-19"
+    },
+    {
+      "thread": {
+        "number": "",
+        "title": "Казань — Челябинск",
+        "short_title": "Казань — Челябинск",
+        "express_type": null,
+        "transport_type": "bus",
+        "carrier": {
+          "code": 64968,
+          "title": "ООО \"Автовокзал Восточный\"",
+          "codes": {
+            "sirena": null,
+            "iata": null,
+            "icao": null
+          },
+          "address": "",
+          "url": "",
+          "email": "",
+          "contacts": "",
+          "phone": "",
+          "logo": null,
+          "logo_svg": null
+        },
+        "uid": "empty_2_f9850085t9851724_168",
+        "vehicle": "HIGER(55)  (55), в536те716",
+        "transport_subtype": {
+          "title": null,
+          "code": null,
+          "color": null
+        },
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-10-19&uid=empty_2_f9850085t9851724_168"
+      },
+      "stops": "",
+      "from": {
+        "type": "station",
+        "title": "Казань, Восточный автовокзал",
+        "short_title": "",
+        "popular_title": "Восточный автовокзал",
+        "code": "s9850085",
+        "station_type": "bus_station",
+        "station_type_name": "автовокзал",
+        "transport_type": "bus"
+      },
+      "to": {
+        "type": "station",
+        "title": "Челябинск, Центральный автовокзал / Синегорье",
+        "short_title": null,
+        "popular_title": null,
+        "code": "s9851724",
+        "station_type": "bus_station",
+        "station_type_name": "автовокзал",
+        "transport_type": "bus"
+      },
+      "departure_platform": "",
+      "arrival_platform": "",
+      "departure_terminal": null,
+      "arrival_terminal": null,
+      "duration": 67200.0,
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "name": null,
+            "price": {
+              "whole": 3850,
+              "cents": 0
+            },
+            "currency": "RUB"
+          }
+        ]
+      },
+      "departure": "2025-10-19T15:40:00+03:00",
+      "arrival": "2025-10-20T12:20:00+05:00",
+      "start_date": "2025-10-19"
+    }
+  ],
+  "interval_segments": [],
+  "pagination": {
+    "total": 3,
+    "limit": 100,
+    "offset": 0
+  }
+}
